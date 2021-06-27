@@ -21,6 +21,9 @@ Bitcoin meet up for Baton Rouge
 - [COinbase](https://www.coinbase.com)
 - [Coinbase Pro](https://pro.coinbase.com)
 
+## Decentralized Exchanges
+- [Waves Exchange](https://waves.exchange)
+
 ## Explorers
 - [BTC.com](https://www.btc.com)
 - [Blockstream](https://blockstream.info/)
