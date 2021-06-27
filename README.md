@@ -15,7 +15,7 @@ Bitcoin meet up for Baton Rouge
 - [Awesome Bitcoin Payment Processors](https://github.com/alexk111/awesome-bitcoin-payment-processors)
 
 ## Centralized Exchanges
-- [Ascendex (Formerly Bitmax)](https://www.ascendex.com]
+- [Ascendex (Formerly Bitmax)](https://www.ascendex.com)
 - [Binance (Global)](https:///www.binance.com)
 - [Binance (US)](https://www.binance.com.us)
 - [COinbase](https://www.coinbase.com)
