@@ -1,8 +1,8 @@
 # Bitcoin-Proof-of-Drink
 Bitcoin meet up for Baton Rouge
 
-![Beer Mugs]
-(https://m.media-amazon.com/images/I/51i1mMAUouL._AC_SL1000_.jpg)
+!(https://m.media-amazon.com/images/I/51i1mMAUouL._AC_SL1000_.jpg)
+
 ## Beginner's Guide
 [Beginner's Guide](https://github.com/batonrougecryptocurrency/Bitcoin-Proof-of-Drink/blob/main/Begginers-Guide.md)
 
