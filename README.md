@@ -24,7 +24,7 @@ Bitcoin meet up for Baton Rouge
 ## Explorers
 - [BTC.com](https://www.btc.com)
 - [Blockstream](https://blockstream.info/)
-- [Bicoin.com](https://explorer.bitcoin.com/btc) (NOTE: bitcoin.com has a real bitcoin explorer, but the site belongs to BCash [YES, I STILL CALL BITCOIN CASH BCASH]
+- [Bicoin.com](https://explorer.bitcoin.com/btc) (NOTE: bitcoin.com has a real bitcoin explorer, but the site belongs to BCash [YES, I STILL CALL BITCOIN CASH BCASH])
 
 ## Facts
 - Craig Wright ain't Satoshi!!!
