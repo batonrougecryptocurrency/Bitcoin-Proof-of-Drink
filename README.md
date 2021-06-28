@@ -29,5 +29,11 @@ Bitcoin meet up for Baton Rouge
 - [Blockstream](https://blockstream.info/)
 - [Bicoin.com](https://explorer.bitcoin.com/btc) (NOTE: bitcoin.com has a real bitcoin explorer, but the site belongs to BCash [YES, I STILL CALL BITCOIN CASH BCASH])
 
+## Influencers
+- [Tone Vays (Youtube)](https://www.youtube.com/channel/UCbiWJYRg8luWHnmNkJRZEnw)
+- [Chico Crypto](https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw}
+- [MrSotko CryptoCurrency](https://www.youtube.com/user/mrsotko)
+
+
 ## Facts
 - Craig Wright ain't Satoshi!!!
