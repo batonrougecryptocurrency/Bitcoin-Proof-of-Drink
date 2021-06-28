@@ -5,6 +5,7 @@ Bitcoin meet up for Baton Rouge
 
 ## Beginner's Guide
 [Beginner's Guide](https://github.com/batonrougecryptocurrency/Bitcoin-Proof-of-Drink/blob/main/Begginers-Guide.md)
+[Beginner's Guide](https://batonrougecryptocurrency.github.io/Bitcoin-Proof-of-Drink/Begginers-Guide)
 
 ## General Info
 - [The Real Bitcoin Site](https://www.bitcoin.org)
