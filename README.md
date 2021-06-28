@@ -31,8 +31,8 @@ Bitcoin meet up for Baton Rouge
 
 ## Influencers
 - [Tone Vays (Youtube)](https://www.youtube.com/channel/UCbiWJYRg8luWHnmNkJRZEnw)
-- [Chico Crypto](https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw)
-- [MrSotko CryptoCurrency](https://www.youtube.com/user/mrsotko)
+- [Chico Crypto (Youtube)](https://www.youtube.com/channel/UCHop-jpf-huVT1IYw79ymPw)
+- [MrSotko CryptoCurrency (Youtube)](https://www.youtube.com/user/mrsotko)
 
 
 ## Facts
