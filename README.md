@@ -27,7 +27,7 @@ Bitcoin meet up for Baton Rouge
 ## Explorers
 - [BTC.com](https://www.btc.com)
 - [Blockstream](https://blockstream.info/)
-- [Bicoin.com](https://explorer.bitcoin.com/btc) (NOTE: bitcoin.com has a real bitcoin explorer, but the site belongs to BCash [YES, I STILL CALL BITCOIN CASH BCASH])
+- [Bitcoin.com](https://explorer.bitcoin.com/btc) (NOTE: bitcoin.com has a real bitcoin explorer, but the site belongs to BCash [YES, I STILL CALL BITCOIN CASH BCASH])
 
 ## Influencers
 - [Tone Vays (Youtube)](https://www.youtube.com/channel/UCbiWJYRg8luWHnmNkJRZEnw)
